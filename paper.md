@@ -14,3 +14,6 @@ Continuation of the introduction section, explaining the topic and the issue
 
 # Simulations
 brief descriptions of the simulations that were carried out
+
+# Methodology
+description of how the experiment and simulation were carried out and houw they were compared
