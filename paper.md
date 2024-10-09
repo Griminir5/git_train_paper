@@ -23,3 +23,6 @@ Some graphs and numbers that lead us towards a certain conclusion
 
 # Figures
 pictures and figures go in this section
+
+# Conclusions
+restate itroduction but with support from results some things are tbd
