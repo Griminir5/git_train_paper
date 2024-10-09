@@ -1,8 +1,8 @@
 # Title
-Example of the title
+Simulation: Example of the title
 
 # Author
-Name Surname
+Name Surname, name2 surname2
 
 # Introduction
 Put a hook that will interest the reader here.
