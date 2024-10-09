@@ -1,3 +1,4 @@
 Surname et al 2004, Some paper title
 Pavardenis 2012, Funny title
 Doe 9999, title
+Doe 9998, another title of a paper that is in the bibliography but not in text
