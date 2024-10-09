@@ -5,4 +5,6 @@ Example of the title
 Name Surname
 
 # Introduction
-Put a hook that will interest the reader here
+Put a hook that will interest the reader here.
+
+This sentence needs to cite a source (Surname et al 2004).
