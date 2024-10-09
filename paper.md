@@ -20,3 +20,6 @@ description of how the experiment and simulation were carried out and houw they 
 
 # Results
 Some graphs and numbers that lead us towards a certain conclusion
+
+# Figures
+pictures and figures go in this section
