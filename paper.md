@@ -1,5 +1,5 @@
 # Title
-Example of the title
+Work: Example of the title
 
 # Author
 Name Surname
