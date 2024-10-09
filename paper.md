@@ -16,5 +16,4 @@ Continuation of the introduction section, explaining the topic and the issue
 brief descriptions of the simulations that were carried out
 
 # Methodology
-description of how the experiment and simulation were carried out and how they were compared. A description the instrument used  is given, mostly following the work of Doe 9999
-
+description of how the experiment and simulation were carried out and houw they were compared
