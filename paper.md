@@ -17,3 +17,6 @@ brief descriptions of the simulations that were carried out
 
 # Methodology
 description of how the experiment and simulation were carried out and houw they were compared
+
+# Results
+Some graphs and numbers that lead us towards a certain conclusion
